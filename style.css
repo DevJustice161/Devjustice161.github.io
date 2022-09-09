@@ -388,6 +388,7 @@ footer div a i{
     }
     #about .abt-sec{
         flex-direction: column;
+        justify-content:none;
     }
     #about .port-img img{
         width: 300px;
