@@ -390,7 +390,7 @@ footer div a i{
         flex-direction: column;
     }
     #about .port-img img{
-        width: 100%;
+        width: 300px;
         height: 400px;
     }
     #about .about-me{
