@@ -379,7 +379,7 @@ footer div a i{
         margin-left: 30px;
     } 
 } */
-/* @media screen and (max-width: 800px){
+@media screen and (max-width: 800px){
     #port-nav .nav-links{
         display: none;   
     }
@@ -414,4 +414,4 @@ footer div a i{
     } 
 }
 
- */
+
