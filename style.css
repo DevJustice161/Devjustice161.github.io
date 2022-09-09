@@ -371,14 +371,7 @@ footer div a i{
 
 
 /* ============================ MEDIA SCREEN ===============================*/
-@media screen and (max-width: 1000px){
-    #about .about-me{
-        margin-left: 50px;
-    }
-    #services .ui-ux{        
-        margin-left: 30px;
-    } 
-}
+
 @media screen and (max-width: 800px){
     #port-nav .nav-links{
         display: none;   
@@ -411,5 +404,13 @@ footer div a i{
         width: 100%;
         margin-top: 20px;
         margin-left: 0;
+    } 
+}
+@media screen and (max-width: 1000px){
+    #about .about-me{
+        margin-left: 50px;
+    }
+    #services .ui-ux{        
+        margin-left: 30px;
     } 
 }
