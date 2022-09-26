@@ -498,6 +498,7 @@ footer div a i{
 }
 @media screen and (max-width: 800px){
     body{
+        background:#f00;
         margin: 0;
         padding: 0;
     }
