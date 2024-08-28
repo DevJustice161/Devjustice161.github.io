@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const downloadBtn = document.getElementById("downloadBtn");
+
     const notification = document.getElementById("notification");
 
     downloadBtn.addEventListener("click", function() {
@@ -11,5 +10,4 @@ document.addEventListener("DOMContentLoaded", function() {
             notification.style.display = "none";
         }, 3000);
     });
-});
 
