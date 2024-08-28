@@ -31,6 +31,7 @@ a {
     text-decoration: none;
     outline: none; }
 #downloadBtn {
+  color:red;
   border: 0;
   outline: none;
   text-decoration: none;
