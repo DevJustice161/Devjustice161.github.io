@@ -30,6 +30,12 @@ a {
   a:hover, a:focus {
     text-decoration: none;
     outline: none; }
+#downloadBtn {
+  text-decoration: none;
+  transition: all 0.3s ease-in-out; }
+  #downloadBtn:hover, #donloadBtn:focus {
+    text-decoration: none;
+    outline: none; }
 
 .row.m0 {
   margin: 0px; }
